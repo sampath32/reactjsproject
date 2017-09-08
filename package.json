@@ -1,0 +1,15 @@
+{
+  "name": "myreactproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Sampath Chennuri",
+  "license": "ISC",
+  "dependencies": {
+    "material-ui": "^0.19.1",
+    "react": "^15.6.1"
+  }
+}
